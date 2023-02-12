@@ -57,19 +57,19 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.vcardowner = ['94766370881'] //ur owner number
 global.ownername = "Mr Lakshan" //ur owner name
 global.ytname = " " //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: Lakshan335" //ur github or insta name
+global.location = "Sri Lanka, Kurunegala, Solewewa" //ur location
 
 //bot bomdy 
 global.owner = ['94766370881']
 global.ownertag = '94766370881' //ur tag number
-global.botname = 'Cheems Bot' //ur bot name
+global.botname = 'LakiyaBot' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot🦄🦄🦄 " //ur sticker watermark packname
+global.packname = "LakiyaBot" //ur sticker watermark packname
 global.author = "Mr Lakshan" //ur sticker watermark author
 
 //Bot theme media
